@@ -36,12 +36,12 @@ Contributions are welcome! Here's how you can contribute:
 - Push to the branch (git push origin feature/your-feature)
 - Create a new Pull Request
 
-Credits
-Mediapipe - Hand tracking framework
-OpenCV - Computer vision library
+## Credits
+- Mediapipe - Hand tracking framework
+- OpenCV - Computer vision library
 
-Creators
-Madhumitha Kolkar
+## Creators
+- Madhumitha Kolkar
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
