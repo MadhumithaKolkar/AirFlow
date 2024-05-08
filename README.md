@@ -3,6 +3,9 @@
 ## Description
 AirFlow is a project that utilizes hand gestures for controlling and interacting with digital content. It employs computer vision techniques to track hand movements captured by a webcam and translates them into various actions, such as drawing on a canvas or controlling applications.
 
+![AirFlow-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/AirFlow/assets/54811937/d68de79f-748c-4497-9abd-fc2992e23649)
+
+
 ## Features
 - Hand gesture recognition using Mediapipe framework
 - Real-time interaction with digital content
