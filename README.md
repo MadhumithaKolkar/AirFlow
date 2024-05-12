@@ -24,10 +24,16 @@ AirFlow is a project that utilizes hand gestures for controlling and interacting
    ```
 
 2. Install the required packages:
->>> python -m pip install opencv-python numpy mediapipe
+
+```bash
+  python -m pip install opencv-python numpy mediapipe
+```
 
 3. Run the Python script:
->>> python AirFlow.py
+
+```bash
+  python AirFlow.py
+```
 
 4. Use hand gestures to interact with the application:
 
@@ -35,7 +41,6 @@ AirFlow is a project that utilizes hand gestures for controlling and interacting
    - Change colors by selecting different regions on the screen
    - Clear the canvas by pressing the "CLEAR" button
    - Exit the application by pressing the "q" key
-
 
 ## Contributing
 
